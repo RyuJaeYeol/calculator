@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>[#{site-title}#]</title><link>http://sample.asamaru.net</link><description>[#{site-description}#]</description><image><title>[#{site-title}#]</title><url>http://sample.asamaru.net/res/img/icon/icon.png</url><link>http://sample.asamaru.net</link><description>[#{site-description}#]</description></image><managingEditor>[#{site-author}#] ([#{site-email}#])</managingEditor><pubDate>Mon, 04 Nov 2019 14:16:50 +0900</pubDate><item><title>포스트2 샘플 1</title><pubDate>Mon, 12 Oct 2015 20:40:00 +0900</pubDate><link>http://sample.asamaru.net/posts2/posts-sample-2/post-sample-1/</link><guid>http://sample.asamaru.net/posts2/posts-sample-2/post-sample-1/</guid><author>[#{site-author}#] ([#{site-email}#])</author><category>카테고리1</category><description><![CDATA[<h3>페이지 샘플 콘텐츠 1</h3>
+<p>샘플 콘텐츠 : 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
+블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라</p>
+<p></p>
+<p>블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
+블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라</p>
+<p></p>
+<p>블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라</p>]]></description></item><item><title>포스트2 샘플 2</title><pubDate>Mon, 12 Oct 2015 20:40:00 +0900</pubDate><link>http://sample.asamaru.net/posts2/posts-sample-2/post-sample-2/</link><guid>http://sample.asamaru.net/posts2/posts-sample-2/post-sample-2/</guid><author>[#{site-author}#] ([#{site-email}#])</author><category>카테고리1</category><description><![CDATA[<h3>페이지 샘플 콘텐츠 2</h3>
+
+<p>
+	샘플 콘텐츠 : 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
+</p>
+
+
+
+<p>
+	블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
+	블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
+</p>
+
+
+
+<p>
+	블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
+	블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
+</p>]]></description></item><item><title>포스트2 샘플 3</title><pubDate>Mon, 12 Oct 2015 20:40:00 +0900</pubDate><link>http://sample.asamaru.net/posts2/posts-sample-2/post-sample-3/</link><guid>http://sample.asamaru.net/posts2/posts-sample-2/post-sample-3/</guid><author>[#{site-author}#] ([#{site-email}#])</author><category>카테고리1</category><description><![CDATA[
+<h3>### 페이지 샘플 콘텐츠 2</h3>
+
+<p>
+	샘플 콘텐츠 : 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
+</p>
+
+
+
+<p>
+	블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
+	블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
+</p>
+
+
+
+<p>
+	블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
+	블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
+</p>]]></description></item>
+</channel>
+</rss>
