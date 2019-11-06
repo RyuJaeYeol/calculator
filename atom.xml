@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>만능게산기 </title><id>http://calculator.10x10.xyz/</id><updated>2019-11-06T15:46:46+09:00</updated><subtitle>평형 계산기 세상의 모든 계산기 모음</subtitle><link href="http://calculator.10x10.xyz/" rel="alternate" type="text/html" /><link href="http://calculator.10x10.xyz/atom.xml" rel="self" type="application/atom+xml" /><author><name>yohan1002@gmail.com</name><uri>http://calculator.10x10.xyz/</uri><email>yohan1002@gmail.com</email></author>
-<entry><id>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EA%B8%80%EC%9E%90%EC%88%98%EC%84%B8%EA%B8%B0/</id><title type="html">글자수 세기</title><link rel="alternate" type="text/html" href="http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EA%B8%80%EC%9E%90%EC%88%98%EC%84%B8%EA%B8%B0/"/><published>2019-11-05T09:00:00+09:00</published><updated>2019-11-05T09:00:00+09:00</updated><author><name>yohan1002@gmail.com</name><uri>http://calculator.10x10.xyz/</uri><email>yohan1002@gmail.com</email></author><category term="계산기" label="계산기" /><category scheme="urn:tag" term="이력서글자수" label="이력서글자수" /><category scheme="urn:tag" term="자소서글자계산" label="자소서글자계산" /><summary><![CDATA[이력서, 자기소개서 등 작성시 유용한 글자 수 세기 프로그램 입니다. 아래의 입력창에 내용을 입력하거나 붙여넣기를 하세요. 입력하신 내용은 따로 저장되지 않습니다. 자기소개서, 이력서 등 대부분의 경우 공백 및 줄바꿈을 포함한 글자수를 기준으로 합니다. 공백포함 공백제외 줄바꿈포함 줄바꿈제외 자 자 자 byte byte byte <바이트 수> 한글: 2byte 영어: 1byte 공백: 1byte 숫자: 1byte 특수문자: 1byte <계산과정> 공백 포함: 빈공간(띄어쓰기)를 하나의 글자로 인식합니다. 공백 제외: 빈공간(띄어쓰기)를 무시합니다. 글자수 계산시에 포함하지 않습니다. 줄바꿈 포함: 줄바꿈(엔터)을 하나의 공백으로 인식합니다. 따라서 공백을 포함할 경우 하나의 글자로 인식합니다. 줄바꿈 제외: 줄바꿈(엔터)을 무시합니다. 존재하는 않는 문자로 인식하기에 계산시에 포함하지 않습니다. <자기소개서(자소서)를 작성할 때 적정량> 500자 이내로 작성해야하는 경우 - 가급적 100%에 가깝게 작성 1000자 이내인 경우 - 900자 이상 작성 1000자 이상인 경우 - 80% 이상 작성 ]]></summary><content type="html"><![CDATA[<p>이력서, 자기소개서 등 작성시 유용한 글자 수 세기 프로그램 입니다.</p>
+<title>만능게산기 </title><id>http://calculator.10x10.xyz/</id><updated>2019-11-06T15:51:47+09:00</updated><subtitle>평형 계산기 세상의 모든 계산기 모음</subtitle><link href="http://calculator.10x10.xyz/" rel="alternate" type="text/html" /><link href="http://calculator.10x10.xyz/atom.xml" rel="self" type="application/atom+xml" /><author><name>yohan1002@gmail.com</name><uri>http://calculator.10x10.xyz/</uri><email>yohan1002@gmail.com</email></author>
+<entry><id>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EA%B8%80%EC%9E%90%EC%88%98%EC%84%B8%EA%B8%B0/</id><title type="html">글자수 세기</title><link rel="alternate" type="text/html" href="http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EA%B8%80%EC%9E%90%EC%88%98%EC%84%B8%EA%B8%B0/"/><published>2019-11-05T09:00:00+09:00</published><updated>2019-11-05T09:00:00+09:00</updated><author><name>yohan1002@gmail.com</name><uri>http://calculator.10x10.xyz/</uri><email>yohan1002@gmail.com</email></author><category term="계산기" label="계산기" /><category scheme="urn:tag" term="이력서글자수" label="이력서글자수" /><category scheme="urn:tag" term="자소서글자계산" label="자소서글자계산" /><summary><![CDATA[이력서, 자기소개서 등 작성시 유용한 글자 수 세기 프로그램 입니다. 아래의 입력창에 내용을 입력하거나 붙여넣기를 하세요. 입력하신 내용은 따로 저장되지 않습니다. 자기소개서, 이력서 등 대부분의 경우 공백 및 줄바꿈을 포함한 글자수를 기준으로 합니다. 공백포함 공백제외 줄바꿈포함 줄바꿈제외 자 자 자 byte byte byte <바이트 수> 한글: 2byte 영어: 1byte 공백: 1byte 숫자: 1byte 특수문자: 1byte <계산과정> 공백 포함: 빈공간(띄어쓰기)를 하나의 글자로 인식합니다. 공백 제외: 빈공간(띄어쓰기)를 무시합니다. 글자수 계산시에 포함하지 않습니다. 줄바꿈 포함: 줄바꿈(엔터)을 하나의 공백으로 인식합니다. 따라서 공백을 포함할 경우 하나의 글자로 인식합니다. 줄바꿈 제외: 줄바꿈(엔터)을 무시합니다. 존재하는 않는 문자로 인식하기에 계산시에 포함하지 않습니다. <자기소개서(자소서)를 작성할 때 적정량> 500자 이내로 작성해야하는 경우: 가급적 100%에 가깝게 작성 1000자 이내인 경우: 900자 이상 작성 1000자 이상인 경우: 80% 이상 작성 ]]></summary><content type="html"><![CDATA[<p>이력서, 자기소개서 등 작성시 유용한 글자 수 세기 프로그램 입니다.</p>
 <p>아래의 입력창에 내용을 입력하거나 붙여넣기를 하세요. 입력하신 내용은 따로 저장되지 않습니다.</p>
 <p>자기소개서, 이력서 등 대부분의 경우 공백 및 줄바꿈을 포함한 글자수를 기준으로 합니다.</p>
 
@@ -55,12 +55,9 @@
 
 	<dl class="referenceBox">
 		<dt>&lt;자기소개서(자소서)를 작성할 때 적정량&gt;</dt>
-		<dd>500자 이내로 작성해야하는 경우</dd>
-		<dd>- 가급적 100%에 가깝게 작성</dd>
-		<dd>1000자 이내인 경우</dd>
-		<dd>- 900자 이상 작성</dd>
-		<dd>1000자 이상인 경우</dd>
-		<dd>- 80% 이상 작성</dd>
+		<dd>500자 이내로 작성해야하는 경우: 가급적 100%에 가깝게 작성</dd>
+		<dd>1000자 이내인 경우: 900자 이상 작성</dd>
+		<dd>1000자 이상인 경우: 80% 이상 작성</dd>
 	</dl>
 </div>]]></content></entry>
 
