@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://calculator.v.corez.kr/sitemap.xml
+Sitemap: http://calculator.10x10.xyz/sitemap.xml
