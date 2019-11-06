@@ -54,7 +54,7 @@
 						
 	<link rel="alternate" type="application/rss+xml" title="만능게산기 " href="http://calculator.10x10.xyz/atom.xml"/>
 
-			<link href="/res/css/min/fd9a947758707988050e457193bbab41.css" type="text/css" rel="stylesheet" />
+			<link href="/res/css/min/aea9978be5b8f72eb6010a6841f1d3ba.css" type="text/css" rel="stylesheet" />
 
 	 <script type="application/ld+json">{
     "@context": "http://schema.org",
@@ -121,51 +121,61 @@
 			<time class="updated hide" datetime="2019-11-05 09:00:00">2019.11.05. 09:00</time>
 			<span class="vcard author hide"><span class="fn">yohan1002@gmail.com</span></span>
 		</div>
-		<div class="markdown-body entry-content"><div>
-	<textarea style="width: 100%; height: 300px;" id="input-message" v-model="inputMessage"></textarea>
+		<div class="markdown-body entry-content"><div id="calculator">
+	<div>
+		<textarea id="input-message" placeholder="글자를 입력하세요" v-on:keyup="onInputChange"></textarea>
+	</div>
+
+	<table class="table">
+		<thead>
+		<tr>
+			<th colspan="2">공백포함</th>
+			<th rowspan="2">공백제외</th>
+		</tr>
+		<tr>
+			<th>줄바꿈포함</th>
+			<th>줄바꿈제외</th>
+		</tr>
+		</thead>
+		<tbody>
+		<tr>
+			<td><strong class="highlight" v-text="charCount"></strong> 자</td>
+			<td><strong class="highlight" v-text="charExceptLineBreakCount"></strong> 자</td>
+			<td><strong class="highlight" v-text="charExceptBlankCount"></strong> 자</td>
+		</tr>
+		<tr>
+			<td><strong class="highlight" v-text="byteCount"></strong> byte</td>
+			<td><strong class="highlight" v-text="byteExceptLineBreakCount"></strong> byte</td>
+			<td><strong class="highlight" v-text="byteExceptBlankCount"></strong> byte</td>
+		</tr>
+		</tbody>
+	</table>
+
+	<p>※ 공백을 포함할 경우 공백도 하나의 글자로 간주해서 계산합니다.</p>
+	<p>※ 줄바꿈을 포함할 경우 줄바꿈도 공백으로 간주해서 하나의 글자로 계산합니다.</p>
+
+	<dl class="referenceBox">
+		<dt>&lt;계산과정&gt;</dt>
+		<dd>공백 포함: 빈공간(띄어쓰기)를 하나의 글자로 인식합니다.</dd>
+		<dd>공백 제외: 빈공간(띄어쓰기)를 무시합니다. 글자수 계산시에 포함하지 않습니다.</dd>
+		<dd>줄바꿈 포함: 줄바꿈(엔터)을 하나의 공백으로 인식합니다. 따라서 공백을 포함할 경우 하나의 글자로 인식합니다.</dd>
+		<dd>줄바꿈 제외: 줄바꿈(엔터)을 무시합니다. 존재하는 않는 문자로 인식하기에 계산시에 포함하지 않습니다.</dd>
+	</dl>
+
+	<dl class="referenceBox">
+		<dt>&lt;바이트 수&gt;</dt>
+		<dd>한글: 2byte</dd>
+		<dd>영어: 1byte</dd>
+		<dd>공백: 1byte</dd>
+		<dd>숫자: 1byte</dd>
+		<dd>특수문자: 1byte</dd>
+	</dl>
 </div>
-
-<table style="width: 100%;">
-	<tr>
-		<th rowspan="2">공백포함</th>
-		<th>줄바꿈포함</th>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th>줄바꿈제외</th>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<th colspan="2">공백제외</th>
-		<td></td>
-		<td v-text="inputMessage"></td>
-	</tr>
-</table>
-
-<p>
-	샘플 콘텐츠 : 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
-</p>
-
-
-
-<p>
-	블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
-	블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
-</p>
-
-
-
-<p>
-	블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
-	블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라 블라블라
-</p>
 </div>
 					<dl class="tags">
 				<dt>태그 :</dt>
-									<dd><a href="http://calculator.10x10.xyz/계산기/tag/이력서/" class="text-inverse tag" rel="tag" title="이력서 목록보기">이력서</a></dd>
-									<dd><a href="http://calculator.10x10.xyz/계산기/tag/자소서/" class="text-inverse tag" rel="tag" title="자소서 목록보기">자소서</a></dd>
+									<dd><a href="http://calculator.10x10.xyz/계산기/tag/이력서/" class="text-inverse tag" rel="tag" title="이력서 목록보기">#이력서</a></dd>
+									<dd><a href="http://calculator.10x10.xyz/계산기/tag/자소서/" class="text-inverse tag" rel="tag" title="자소서 목록보기">#자소서</a></dd>
 							</dl>
 		
 		
@@ -182,32 +192,36 @@
 </div>
 <nav id="sidebar" class="slideout-menu">
 	<div class="box">
-		<ul class="clearfix recommendLinks">
-			<li><a href="/계산기/글자수세기/">글자 수 세기</a></li>
-		</ul>
+		<div class="recommendLinks">
+			<div class="recommend-title"><strong>계산기</strong> 랭킹</div>
+			<ul class="clearfix list-box">
+				<li><a href="/계산기/글자수세기/"><span class="no">1</span> 글자수 세기</a></li>
+			</ul>
+		</div>
 
 										
 			
-																<dl class="tags">
-						<dt>분류</dt>
-													<dd>
-								<a href="http://calculator.10x10.xyz/계산기/category/계산기/" title="계산기 목록보기">
-									계산기<span>(1)</span>
-								</a>
-							</dd>
-											</dl>
+																<div class="category-title">분류</div>
+
+					<ul class="clearfix categories" title="분류">
+												<li>
+							<a href="http://calculator.10x10.xyz/계산기/category/계산기/" title="계산기 목록보기">
+								계산기<span>(1)</span>
+							</a>
+						</li>
+											</ul>
 							
 			
 																<dl class="tags">
 						<dt>태그</dt>
 													<dd>
 								<a href="http://calculator.10x10.xyz/계산기/tag/이력서/" title="이력서 목록보기">
-									이력서<span>(1)</span>
+									#이력서
 								</a>
 							</dd>
 													<dd>
 								<a href="http://calculator.10x10.xyz/계산기/tag/자소서/" title="자소서 목록보기">
-									자소서<span>(1)</span>
+									#자소서
 								</a>
 							</dd>
 											</dl>
@@ -248,6 +262,6 @@
 </footer>
 
 
-<script src="/res/js/min/040a05814f02bd0a64f407a6fd32a362.js" async="true" type="text/javascript"></script>
+<script src="/res/js/min/a6da6e2c4514203bdc01f2a5bd6908d5.js" async="true" type="text/javascript"></script>
 </body>
 </html>
