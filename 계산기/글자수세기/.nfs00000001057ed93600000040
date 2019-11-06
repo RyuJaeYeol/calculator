@@ -121,25 +121,7 @@
 			<time class="updated hide" datetime="2019-11-05 09:00:00">2019.11.05. 09:00</time>
 			<span class="vcard author hide"><span class="fn">yohan1002@gmail.com</span></span>
 		</div>
-		<div class="markdown-body entry-content"><p>이력서, 자기소개서 등 작성시 유용한 글자 수 세기 프로그램 입니다.</p>
-<p>아래의 입력창에 내용을 입력하거나 붙여넣기를 하세요. 입력하신 내용은 따로 저장되지 않습니다.</p>
-<p>자기소개서, 이력서 등 대부분의 경우 공백 및 줄바꿈을 포함한 글자수를 기준으로 합니다.</p>
-<p</p>
-
-<p>자기소개서(자소서)를 작성할 때 적정량</p>
-<p></p>
-<p>500자 이내로 작성해야하는 경우</p>
-<p>- 가급적 100%에 가깝게 작성</p>
-
-<p></p>
-<p>1000자 이내인 경우</p>
-<p>- 900자 이상 작성</p>
-
-<p></p>
-<p>1000자 이상인 경우</p>
-<p>- 80% 이상 작성</p>
-
-<div id="calculator">
+		<div class="markdown-body entry-content"><div id="calculator">
 	<div>
 		<textarea id="input-message" placeholder="글자를 입력하세요" v-on:keyup="onInputChange"></textarea>
 	</div>
@@ -192,8 +174,8 @@
 </div>
 					<dl class="tags">
 				<dt>태그 :</dt>
-									<dd><a href="http://calculator.10x10.xyz/계산기/tag/이력서글자수/" class="text-inverse tag" rel="tag" title="이력서글자수 목록보기">#이력서글자수</a></dd>
-									<dd><a href="http://calculator.10x10.xyz/계산기/tag/자소서글자계산/" class="text-inverse tag" rel="tag" title="자소서글자계산 목록보기">#자소서글자계산</a></dd>
+									<dd><a href="http://calculator.10x10.xyz/계산기/tag/이력서/" class="text-inverse tag" rel="tag" title="이력서 목록보기">#이력서</a></dd>
+									<dd><a href="http://calculator.10x10.xyz/계산기/tag/자소서/" class="text-inverse tag" rel="tag" title="자소서 목록보기">#자소서</a></dd>
 							</dl>
 		
 		
@@ -233,13 +215,13 @@
 																<dl class="tags">
 						<dt>태그</dt>
 													<dd>
-								<a href="http://calculator.10x10.xyz/계산기/tag/이력서글자수/" title="이력서글자수 목록보기">
-									#이력서글자수
+								<a href="http://calculator.10x10.xyz/계산기/tag/이력서/" title="이력서 목록보기">
+									#이력서
 								</a>
 							</dd>
 													<dd>
-								<a href="http://calculator.10x10.xyz/계산기/tag/자소서글자계산/" title="자소서글자계산 목록보기">
-									#자소서글자계산
+								<a href="http://calculator.10x10.xyz/계산기/tag/자소서/" title="자소서 목록보기">
+									#자소서
 								</a>
 							</dd>
 											</dl>
