@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>만능게산기 </title><link>http://calculator.10x10.xyz</link><description>글자수 세기, 대출 이자 계산, 평형 계산 세상에 꼭 필요한 편리한 계산기 모음</description><image><title>만능게산기 </title><url>http://calculator.10x10.xyz/res/img/icon/icon.png</url><link>http://calculator.10x10.xyz</link><description>글자수 세기, 대출 이자 계산, 평형 계산 세상에 꼭 필요한 편리한 계산기 모음</description></image><managingEditor>yohan1002@gmail.com (yohan1002@gmail.com)</managingEditor><pubDate>Wed, 06 Nov 2019 15:43:15 +0900</pubDate><item><title>글자수 세기</title><pubDate>Tue, 05 Nov 2019 09:00:00 +0900</pubDate><link>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EA%B8%80%EC%9E%90%EC%88%98%EC%84%B8%EA%B8%B0/</link><guid>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EA%B8%80%EC%9E%90%EC%88%98%EC%84%B8%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>계산기</category><description><![CDATA[<p>이력서, 자기소개서 등 작성시 유용한 글자 수 세기 프로그램 입니다.</p>
+<title>만능게산기 </title><link>http://calculator.10x10.xyz</link><description>글자수 세기, 대출 이자 계산, 평형 계산 세상에 꼭 필요한 편리한 계산기 모음</description><image><title>만능게산기 </title><url>http://calculator.10x10.xyz/res/img/icon/icon.png</url><link>http://calculator.10x10.xyz</link><description>글자수 세기, 대출 이자 계산, 평형 계산 세상에 꼭 필요한 편리한 계산기 모음</description></image><managingEditor>yohan1002@gmail.com (yohan1002@gmail.com)</managingEditor><pubDate>Wed, 06 Nov 2019 15:46:46 +0900</pubDate><item><title>글자수 세기</title><pubDate>Tue, 05 Nov 2019 09:00:00 +0900</pubDate><link>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EA%B8%80%EC%9E%90%EC%88%98%EC%84%B8%EA%B8%B0/</link><guid>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EA%B8%80%EC%9E%90%EC%88%98%EC%84%B8%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>계산기</category><description><![CDATA[<p>이력서, 자기소개서 등 작성시 유용한 글자 수 세기 프로그램 입니다.</p>
 <p>아래의 입력창에 내용을 입력하거나 붙여넣기를 하세요. 입력하신 내용은 따로 저장되지 않습니다.</p>
 <p>자기소개서, 이력서 등 대부분의 경우 공백 및 줄바꿈을 포함한 글자수를 기준으로 합니다.</p>
-<p</p>
-
-<p>자기소개서(자소서)를 작성할 때 적정량</p>
-<p></p>
-<p>500자 이내로 작성해야하는 경우</p>
-<p>- 가급적 100%에 가깝게 작성</p>
-
-<p></p>
-<p>1000자 이내인 경우</p>
-<p>- 900자 이상 작성</p>
-
-<p></p>
-<p>1000자 이상인 경우</p>
-<p>- 80% 이상 작성</p>
 
 <div id="calculator">
 	<div>
@@ -49,8 +35,14 @@
 		</tbody>
 	</table>
 
-	<p>※ 공백을 포함할 경우 공백도 하나의 글자로 간주해서 계산합니다.</p>
-	<p>※ 줄바꿈을 포함할 경우 줄바꿈도 공백으로 간주해서 하나의 글자로 계산합니다.</p>
+	<dl class="referenceBox">
+		<dt>&lt;바이트 수&gt;</dt>
+		<dd>한글: 2byte</dd>
+		<dd>영어: 1byte</dd>
+		<dd>공백: 1byte</dd>
+		<dd>숫자: 1byte</dd>
+		<dd>특수문자: 1byte</dd>
+	</dl>
 
 	<dl class="referenceBox">
 		<dt>&lt;계산과정&gt;</dt>
@@ -61,12 +53,13 @@
 	</dl>
 
 	<dl class="referenceBox">
-		<dt>&lt;바이트 수&gt;</dt>
-		<dd>한글: 2byte</dd>
-		<dd>영어: 1byte</dd>
-		<dd>공백: 1byte</dd>
-		<dd>숫자: 1byte</dd>
-		<dd>특수문자: 1byte</dd>
+		<dt>&lt;자기소개서(자소서)를 작성할 때 적정량&gt;</dt>
+		<dd>500자 이내로 작성해야하는 경우</dd>
+		<dd>- 가급적 100%에 가깝게 작성</dd>
+		<dd>1000자 이내인 경우</dd>
+		<dd>- 900자 이상 작성</dd>
+		<dd>1000자 이상인 경우</dd>
+		<dd>- 80% 이상 작성</dd>
 	</dl>
 </div>]]></description></item>
 </channel>
