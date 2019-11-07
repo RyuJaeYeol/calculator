@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>만능게산기 </title><link>http://calculator.10x10.xyz</link><description>생활에 도움을 주는 모든 계산기 모음</description><image><title>만능게산기 </title><url>http://calculator.10x10.xyz/res/img/icon/icon.png</url><link>http://calculator.10x10.xyz</link><description>생활에 도움을 주는 모든 계산기 모음</description></image><managingEditor>yohan1002@gmail.com (yohan1002@gmail.com)</managingEditor><pubDate>Thu, 07 Nov 2019 16:21:05 +0900</pubDate><item><title>평형계산기</title><pubDate>Thu, 07 Nov 2019 15:00:00 +0900</pubDate><link>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%ED%8F%89%ED%98%95%EA%B2%8C%EC%82%B0%EA%B8%B0/</link><guid>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%ED%8F%89%ED%98%95%EA%B2%8C%EC%82%B0%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>계산기</category><description><![CDATA[<p>아파트 평수를 계산하거나, 전용면적을 계산할 때 유용한 평형 계산기 입니다.</p>
+<title>만능게산기 </title><link>http://calculator.10x10.xyz</link><description>생활에 도움을 주는 모든 계산기 모음</description><image><title>만능게산기 </title><url>http://calculator.10x10.xyz/res/img/icon/icon.png</url><link>http://calculator.10x10.xyz</link><description>생활에 도움을 주는 모든 계산기 모음</description></image><managingEditor>yohan1002@gmail.com (yohan1002@gmail.com)</managingEditor><pubDate>Thu, 07 Nov 2019 16:23:19 +0900</pubDate><item><title>평형계산기</title><pubDate>Thu, 07 Nov 2019 15:00:00 +0900</pubDate><link>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%ED%8F%89%ED%98%95%EA%B2%8C%EC%82%B0%EA%B8%B0/</link><guid>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%ED%8F%89%ED%98%95%EA%B2%8C%EC%82%B0%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>계산기</category><description><![CDATA[<p>아파트 평수를 계산하거나, 전용면적을 계산할 때 유용한 평형 계산기 입니다.</p>
 
 <div id="calculator">
 	<h4>평수 계산</h4>
 	<p>계산하려는 평수 또는 ㎡을 입력하세요. 입력하시면 자동으로 계산됩니다.</p>
 	<div class="inputBox border-highlight">
 		<div class="display-table">
-			<input id="input_pyeong" type="text" class="text-right text-bold" value="0" maxlength="9" /><label for="input_pyeong">&nbsp;평</label>
+			<input id="input_pyeong" type="text" class="text-right text-bold" value="" maxlength="9" /><label for="input_pyeong">&nbsp;평</label>
 		</div>
 		<div class="display-table">
-			<input id="input_m2" type="text" class="text-right text-bold" value="0" maxlength="9" /><label for="input_m2">&nbsp;㎡</label>
+			<input id="input_m2" type="text" class="text-right text-bold" value="" maxlength="9" /><label for="input_m2">&nbsp;㎡</label>
 		</div>
 	</div>
 
