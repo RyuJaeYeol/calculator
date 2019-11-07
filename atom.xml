@@ -1,7 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>만능게산기 </title><id>http://calculator.10x10.xyz/</id><updated>2019-11-06T15:58:46+09:00</updated><subtitle>생활에 도움을 주는 모든 계산기 모음</subtitle><link href="http://calculator.10x10.xyz/" rel="alternate" type="text/html" /><link href="http://calculator.10x10.xyz/atom.xml" rel="self" type="application/atom+xml" /><author><name>yohan1002@gmail.com</name><uri>http://calculator.10x10.xyz/</uri><email>yohan1002@gmail.com</email></author>
+<title>만능게산기 </title><id>http://calculator.10x10.xyz/</id><updated>2019-11-07T16:21:05+09:00</updated><subtitle>생활에 도움을 주는 모든 계산기 모음</subtitle><link href="http://calculator.10x10.xyz/" rel="alternate" type="text/html" /><link href="http://calculator.10x10.xyz/atom.xml" rel="self" type="application/atom+xml" /><author><name>yohan1002@gmail.com</name><uri>http://calculator.10x10.xyz/</uri><email>yohan1002@gmail.com</email></author>
+<entry><id>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%ED%8F%89%ED%98%95%EA%B2%8C%EC%82%B0%EA%B8%B0/</id><title type="html">평형계산기</title><link rel="alternate" type="text/html" href="http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%ED%8F%89%ED%98%95%EA%B2%8C%EC%82%B0%EA%B8%B0/"/><published>2019-11-07T15:00:00+09:00</published><updated>2019-11-07T15:00:00+09:00</updated><author><name>yohan1002@gmail.com</name><uri>http://calculator.10x10.xyz/</uri><email>yohan1002@gmail.com</email></author><category term="계산기" label="계산기" /><category scheme="urn:tag" term="평형계산" label="평형계산" /><category scheme="urn:tag" term="전용면적-계산" label="전용면적 계산" /><category scheme="urn:tag" term="평형" label="평형" /><summary><![CDATA[아파트 평수를 계산하거나, 전용면적을 계산할 때 유용한 평형 계산기 입니다. 평수 계산 계산하려는 평수 또는 ㎡을 입력하세요. 입력하시면 자동으로 계산됩니다. 평 ㎡ <계산기준> 1평 = 3.305785㎡, 1㎡ = 0.3025평 <평형 계산 Tip> 계산기가 없을 때 대략적으로 평형 계산을 할 수 있는 방법 입니다. 아주 쉬워요 ㎡으로 되어 있는 숫자중 소수점 이하는 무시하고 10으로 나눈후 반올림 한다.(소수점이 5이상 이면 1올리고, 그 아래면 버린다) 그 후에 x 3을 한다. 정확하진 않지만 근사치는 얻을 수 있습니다. <평형 계산 쉽게하기 예시> 예1) 79.338㎡ => 7.9를 반올림하면 8 => 8 x 3 = 대략 24평 (정확한 값은 23.997325평) 예2) 84㎡ => 8.4를 반올림하면 8 => 8 x 3 = 대략 24평 (정확한 값은 25.41평) 예3) 122㎡ => 12.2를 반올림하면 12 => 12 x 3 = 대략 36평 (정확한 값은 36.905평) 평형 제곱미터 변환표 13.3062685.95 26.6122789.256 39.9172892.562 413.2232995.868 516.5293099.174 619.83531102.479 723.1432105.785 826.44633109.091 929.75234112.397 1033.05835115.702 1136.36436119.008 1239.66937122.314 1342.97538125.62 1446.28139128.926 1549.58740132.231 1652.89341135.537 1756.19842138.843 1859.50443142.149 1962.8144145.455 2066.11645148.76 2169.42146152.066 2272.72747155.372 2376.03348158.678 2479.33949161.983 2582.64550165.289 51168.59576251.24 52171.90177254.545 53175.20778257.851 54178.51279261.157 55181.81880264.463 56185.12481267.769 57188.4382271.074 58191.73683274.38 59195.04184277.686 60198.34785280.992 61201.65386284.298 62204.95987287.603 63208.26488290.909 64211.5789294.215 65214.87690297.521 66218.18291300.826 67221.48892304.132 68224.79393307.438 69228.09994310.744 70231.40595314.05 71234.71196317.355 72238.01797320.661 73241.32298323.967 74244.62899327.273 75247.934100330.579 아파트 평수 확인할 때 주의사항 보통 우리가 몇 평이냐고 대화를 나눌 때, 기준은 공급면적 기준 입니다. 하지만 모델하우스 등에는 전용면적 기준으로 표기되어 있는 경우가 많습니다. 공금면적 = 전용면적 + 공용면적(주거공용면적, 주차장 등) 입니다. 따라서, 보통 7~8평 정도가 공용면적으로 책정되는 경우가 많습니다. 예를 들어 전용면적이 18평으로 되어 있다면, 여기에 보통의 공용면적(아파트마다 다름) 7, 8평 정도를 더하면 대략 25평(공급면적)이 지인들과 우리집 몇 평이야~ 라고 대화나누는 면적이 됩니다. ]]></summary><content type="html"><![CDATA[<p>아파트 평수를 계산하거나, 전용면적을 계산할 때 유용한 평형 계산기 입니다.</p>
+
+<div id="calculator">
+	<h4>평수 계산</h4>
+	<p>계산하려는 평수 또는 ㎡을 입력하세요. 입력하시면 자동으로 계산됩니다.</p>
+	<div class="inputBox border-highlight">
+		<div class="display-table">
+			<input id="input_pyeong" type="text" class="text-right text-bold" value="0" maxlength="9" /><label for="input_pyeong">&nbsp;평</label>
+		</div>
+		<div class="display-table">
+			<input id="input_m2" type="text" class="text-right text-bold" value="0" maxlength="9" /><label for="input_m2">&nbsp;㎡</label>
+		</div>
+	</div>
+
+	<dl class="referenceBox">
+		<dt>&lt;계산기준&gt;</dt>
+		<dd>1평 = 3.305785㎡, 1㎡ = 0.3025평</dd>
+	</dl>
+
+	<dl class="referenceBox">
+		<dt>&lt;평형 계산 Tip&gt;</dt>
+		<dd>계산기가 없을 때 대략적으로 평형 계산을 할 수 있는 방법 입니다. 아주 쉬워요</dd>
+		<dd>㎡으로 되어 있는 숫자중 소수점 이하는 무시하고 10으로 나눈후 반올림 한다.(소수점이 5이상 이면 1올리고, 그 아래면 버린다)</dd>
+		<dd>그 후에 x 3을 한다.</dd>
+		<dd>정확하진 않지만 근사치는 얻을 수 있습니다.</dd>
+	</dl>
+
+	<dl class="referenceBox">
+		<dt>&lt;평형 계산 쉽게하기 예시&gt;</dt>
+		<dd>예1) 79.338㎡ => 7.9를 반올림하면 8 => 8 x 3 = 대략 24평 (정확한 값은 23.997325평)</dd>
+		<dd>예2) 84㎡ => 8.4를 반올림하면 8 => 8 x 3 = 대략 24평 (정확한 값은 25.41평)</dd>
+		<dd>예3) 122㎡ => 12.2를 반올림하면 12 => 12 x 3 = 대략 36평 (정확한 값은 36.905평)</dd>
+	</dl>
+
+	<h4>평형 제곱미터 변환표</h4>
+	<table class="table pyeong">
+		<tr><th>1</th><td>3.306</td><td class="line"></td><th>26</th><td>85.95</td></tr>
+		<tr><th>2</th><td>6.612</td><td class="line"></td><th>27</th><td>89.256</td></tr>
+		<tr><th>3</th><td>9.917</td><td class="line"></td><th>28</th><td>92.562</td></tr>
+		<tr><th>4</th><td>13.223</td><td class="line"></td><th>29</th><td>95.868</td></tr>
+		<tr><th>5</th><td>16.529</td><td class="line"></td><th>30</th><td>99.174</td></tr>
+		<tr><th>6</th><td>19.835</td><td class="line"></td><th>31</th><td>102.479</td></tr>
+		<tr><th>7</th><td>23.14</td><td class="line"></td><th>32</th><td>105.785</td></tr>
+		<tr><th>8</th><td>26.446</td><td class="line"></td><th>33</th><td>109.091</td></tr>
+		<tr><th>9</th><td>29.752</td><td class="line"></td><th>34</th><td>112.397</td></tr>
+		<tr><th>10</th><td>33.058</td><td class="line"></td><th>35</th><td>115.702</td></tr>
+		<tr><th>11</th><td>36.364</td><td class="line"></td><th>36</th><td>119.008</td></tr>
+		<tr><th>12</th><td>39.669</td><td class="line"></td><th>37</th><td>122.314</td></tr>
+		<tr><th>13</th><td>42.975</td><td class="line"></td><th>38</th><td>125.62</td></tr>
+		<tr><th>14</th><td>46.281</td><td class="line"></td><th>39</th><td>128.926</td></tr>
+		<tr><th>15</th><td>49.587</td><td class="line"></td><th>40</th><td>132.231</td></tr>
+		<tr><th>16</th><td>52.893</td><td class="line"></td><th>41</th><td>135.537</td></tr>
+		<tr><th>17</th><td>56.198</td><td class="line"></td><th>42</th><td>138.843</td></tr>
+		<tr><th>18</th><td>59.504</td><td class="line"></td><th>43</th><td>142.149</td></tr>
+		<tr><th>19</th><td>62.81</td><td class="line"></td><th>44</th><td>145.455</td></tr>
+		<tr><th>20</th><td>66.116</td><td class="line"></td><th>45</th><td>148.76</td></tr>
+		<tr><th>21</th><td>69.421</td><td class="line"></td><th>46</th><td>152.066</td></tr>
+		<tr><th>22</th><td>72.727</td><td class="line"></td><th>47</th><td>155.372</td></tr>
+		<tr><th>23</th><td>76.033</td><td class="line"></td><th>48</th><td>158.678</td></tr>
+		<tr><th>24</th><td>79.339</td><td class="line"></td><th>49</th><td>161.983</td></tr>
+		<tr><th>25</th><td>82.645</td><td class="line"></td><th>50</th><td>165.289</td></tr>
+	</table>
+
+	<table class="table pyeong">
+		<tr><th>51</th><td>168.595</td><td class="line"></td><th>76</th><td>251.24</td></tr>
+		<tr><th>52</th><td>171.901</td><td class="line"></td><th>77</th><td>254.545</td></tr>
+		<tr><th>53</th><td>175.207</td><td class="line"></td><th>78</th><td>257.851</td></tr>
+		<tr><th>54</th><td>178.512</td><td class="line"></td><th>79</th><td>261.157</td></tr>
+		<tr><th>55</th><td>181.818</td><td class="line"></td><th>80</th><td>264.463</td></tr>
+		<tr><th>56</th><td>185.124</td><td class="line"></td><th>81</th><td>267.769</td></tr>
+		<tr><th>57</th><td>188.43</td><td class="line"></td><th>82</th><td>271.074</td></tr>
+		<tr><th>58</th><td>191.736</td><td class="line"></td><th>83</th><td>274.38</td></tr>
+		<tr><th>59</th><td>195.041</td><td class="line"></td><th>84</th><td>277.686</td></tr>
+		<tr><th>60</th><td>198.347</td><td class="line"></td><th>85</th><td>280.992</td></tr>
+		<tr><th>61</th><td>201.653</td><td class="line"></td><th>86</th><td>284.298</td></tr>
+		<tr><th>62</th><td>204.959</td><td class="line"></td><th>87</th><td>287.603</td></tr>
+		<tr><th>63</th><td>208.264</td><td class="line"></td><th>88</th><td>290.909</td></tr>
+		<tr><th>64</th><td>211.57</td><td class="line"></td><th>89</th><td>294.215</td></tr>
+		<tr><th>65</th><td>214.876</td><td class="line"></td><th>90</th><td>297.521</td></tr>
+		<tr><th>66</th><td>218.182</td><td class="line"></td><th>91</th><td>300.826</td></tr>
+		<tr><th>67</th><td>221.488</td><td class="line"></td><th>92</th><td>304.132</td></tr>
+		<tr><th>68</th><td>224.793</td><td class="line"></td><th>93</th><td>307.438</td></tr>
+		<tr><th>69</th><td>228.099</td><td class="line"></td><th>94</th><td>310.744</td></tr>
+		<tr><th>70</th><td>231.405</td><td class="line"></td><th>95</th><td>314.05</td></tr>
+		<tr><th>71</th><td>234.711</td><td class="line"></td><th>96</th><td>317.355</td></tr>
+		<tr><th>72</th><td>238.017</td><td class="line"></td><th>97</th><td>320.661</td></tr>
+		<tr><th>73</th><td>241.322</td><td class="line"></td><th>98</th><td>323.967</td></tr>
+		<tr><th>74</th><td>244.628</td><td class="line"></td><th>99</th><td>327.273</td></tr>
+		<tr><th>75</th><td>247.934</td><td class="line"></td><th>100</th><td>330.579</td></tr>
+	</table>
+</div>
+
+<h4>아파트 평수 확인할 때 주의사항</h4>
+<p>보통 우리가 몇 평이냐고 대화를 나눌 때, 기준은 공급면적 기준 입니다.</p>
+<p>하지만 모델하우스 등에는 전용면적 기준으로 표기되어 있는 경우가 많습니다.</p>
+<p>공금면적 = 전용면적 + 공용면적(주거공용면적, 주차장 등) 입니다.</p>
+<p>따라서, 보통 7~8평 정도가 공용면적으로 책정되는 경우가 많습니다.</p>
+<p>예를 들어 전용면적이 18평으로 되어 있다면, 여기에 보통의 공용면적(아파트마다 다름) 7, 8평 정도를 더하면 대략 25평(공급면적)이 지인들과 우리집 몇 평이야~ 라고 대화나누는 면적이 됩니다.</p>
+
+]]></content></entry>
 <entry><id>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EA%B8%80%EC%9E%90%EC%88%98%EC%84%B8%EA%B8%B0/</id><title type="html">글자수 세기</title><link rel="alternate" type="text/html" href="http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EA%B8%80%EC%9E%90%EC%88%98%EC%84%B8%EA%B8%B0/"/><published>2019-11-05T09:00:00+09:00</published><updated>2019-11-06T16:00:00+09:00</updated><author><name>yohan1002@gmail.com</name><uri>http://calculator.10x10.xyz/</uri><email>yohan1002@gmail.com</email></author><category term="계산기" label="계산기" /><category scheme="urn:tag" term="이력서글자수" label="이력서글자수" /><category scheme="urn:tag" term="자소서글자계산" label="자소서글자계산" /><summary><![CDATA[이력서, 자기소개서 등 작성시 유용한 글자 수 세기 프로그램 입니다. 아래의 입력창에 내용을 입력하거나 붙여넣기를 하세요. 입력하신 내용은 따로 저장되지 않습니다. 자기소개서, 이력서 등 대부분의 경우 공백 및 줄바꿈을 포함한 글자수를 기준으로 합니다. 공백포함 공백제외 줄바꿈포함 줄바꿈제외 자 자 자 byte byte byte <바이트 수> 한글: 2byte 영어: 1byte 공백: 1byte 숫자: 1byte 특수문자: 1byte <계산과정> 공백 포함: 빈공간(띄어쓰기)를 하나의 글자로 인식합니다. 공백 제외: 빈공간(띄어쓰기)를 무시합니다. 글자수 계산시에 포함하지 않습니다. 줄바꿈 포함: 줄바꿈(엔터)을 하나의 공백으로 인식합니다. 따라서 공백을 포함할 경우 하나의 글자로 인식합니다. 줄바꿈 제외: 줄바꿈(엔터)을 무시합니다. 존재하는 않는 문자로 인식하기에 계산시에 포함하지 않습니다. <자기소개서(자소서)를 작성할 때 적정량> 500자 이내로 작성해야하는 경우: 가급적 100%에 가깝게 작성 1000자 이내인 경우: 900자 이상 작성 1000자 이상인 경우: 80% 이상 작성 ]]></summary><content type="html"><![CDATA[<p>이력서, 자기소개서 등 작성시 유용한 글자 수 세기 프로그램 입니다.</p>
 <p>아래의 입력창에 내용을 입력하거나 붙여넣기를 하세요. 입력하신 내용은 따로 저장되지 않습니다.</p>
 <p>자기소개서, 이력서 등 대부분의 경우 공백 및 줄바꿈을 포함한 글자수를 기준으로 합니다.</p>
