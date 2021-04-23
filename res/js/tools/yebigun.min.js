@@ -1,0 +1,1 @@
+$(function(){var a=$("#input_pyeong"),n=$("#input_m2"),i=function(a){return parseFloat(a).toFixed(3)};a.keyup(function(){var v=a.val();if(isNaN(v))return a.val(""),void n.val("");n.val(i(3.305785*v))}),n.keyup(function(){var v=n.val();if(isNaN(v))return a.val(""),void n.val("");a.val(i(.3025*v))})});

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://calculator.10x10.xyz/sitemap.xml
+Sitemap: https://calculator.10x10.xyz/sitemap.xml

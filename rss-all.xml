@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>만능게산기 </title><link>http://calculator.10x10.xyz</link><description>생활에 도움을 주는 모든 계산기 모음</description><image><title>만능게산기 </title><url>http://calculator.10x10.xyz/res/img/icon/icon.png</url><link>http://calculator.10x10.xyz</link><description>생활에 도움을 주는 모든 계산기 모음</description></image><managingEditor>yohan1002@gmail.com (yohan1002@gmail.com)</managingEditor><pubDate>Thu, 18 Mar 2021 16:18:47 +0900</pubDate><item><title>자녀 키 계산기</title><pubDate>Tue, 16 Mar 2021 15:00:00 +0900</pubDate><link>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EC%9E%90%EB%85%80%ED%82%A4%EA%B3%84%EC%82%B0%EA%B8%B0/</link><guid>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EC%9E%90%EB%85%80%ED%82%A4%EA%B3%84%EC%82%B0%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>계산기</category><description><![CDATA[<div id="calculator">
+<title>만능게산기 </title><link>https://calculator.10x10.xyz</link><description>생활에 도움을 주는 모든 계산기 모음</description><image><title>만능게산기 </title><url>https://calculator.10x10.xyz/res/img/icon/icon.png</url><link>https://calculator.10x10.xyz</link><description>생활에 도움을 주는 모든 계산기 모음</description></image><managingEditor>yohan1002@gmail.com (yohan1002@gmail.com)</managingEditor><pubDate>Fri, 23 Apr 2021 14:17:35 +0900</pubDate><item><title>자녀 키 계산기</title><pubDate>Tue, 16 Mar 2021 15:00:00 +0900</pubDate><link>https://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EC%9E%90%EB%85%80%ED%82%A4%EA%B3%84%EC%82%B0%EA%B8%B0/</link><guid>https://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EC%9E%90%EB%85%80%ED%82%A4%EA%B3%84%EC%82%B0%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>계산기</category><description><![CDATA[<div id="calculator">
 	<h4>아이(자녀) 키 계산기</h4>
 
 	<label for="father_tall">아빠 키<input type="text" id="father_tall" name="father_tall" value="" placeholder="아빠 키를 입력하세요(cm)" /></label>
@@ -14,7 +14,7 @@
 
 
 	<div id="result_wrap" class="result_wrap">
-		<table class="table_summary">
+		<table class="table_summary table-align-right">
 			<thead>
 				<tr>
 					<th>국가</th>
@@ -24,9 +24,19 @@
 			</thead>
 			<tbody>
 				<tr>
-					<td>한국</td>
+					<th>한국</th>
 					<td title="한국 남자 아이 예상 키" id="result_korea_son" class="inner-unit-cm">0</td>
 					<td title="한국 여자 아이 예상 키" id="result_korea_daughter" class="inner-unit-cm">0</td>
+				</tr>
+				<tr>
+					<th>미국</th>
+					<td title="미국 남자 아이 예상 키" id="result_usa_son" class="inner-unit-cm">0</td>
+					<td title="미국 여자 아이 예상 키" id="result_usa_daughter" class="inner-unit-cm">0</td>
+				</tr>
+				<tr>
+					<th>일본</th>
+					<td title="일본 남자 아이 예상 키" id="result_japan_son" class="inner-unit-cm">0</td>
+					<td title="일본 여자 아이 예상 키" id="result_japan_daughter" class="inner-unit-cm">0</td>
 				</tr>
 			</tbody>
 		</table>
@@ -129,7 +139,7 @@
 <p>따라서, 보통 7~8평 정도가 공용면적으로 책정되는 경우가 많습니다.</p>
 <p>예를 들어 전용면적이 18평으로 되어 있다면, 여기에 보통의 공용면적(아파트마다 다름) 7, 8평 정도를 더하면 대략 25평(공급면적)이 지인들과 우리집 몇 평이야~ 라고 대화나누는 면적이 됩니다.</p>
 
-]]></description></item><item><title>예비군연차계산기</title><pubDate>Thu, 07 Nov 2019 15:00:00 +0900</pubDate><link>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EC%98%88%EB%B9%84%EA%B5%B0%EC%97%B0%EC%B0%A8%EA%B3%84%EC%82%B0%EA%B8%B0/</link><guid>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EC%98%88%EB%B9%84%EA%B5%B0%EC%97%B0%EC%B0%A8%EA%B3%84%EC%82%B0%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>계산기</category><description><![CDATA[<p>전역(제대)후 예비군 몇년차 인지 궁금하신 분들을 위한 예비군 연차 계산기 입니다.<br />훈련 받으러 가기전 확인하세요</p>
+]]></description></item><item><title>예비군연차계산기</title><pubDate>Thu, 07 Nov 2019 15:00:00 +0900</pubDate><link>https://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EC%98%88%EB%B9%84%EA%B5%B0%EC%97%B0%EC%B0%A8%EA%B3%84%EC%82%B0%EA%B8%B0/</link><guid>https://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EC%98%88%EB%B9%84%EA%B5%B0%EC%97%B0%EC%B0%A8%EA%B3%84%EC%82%B0%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>계산기</category><description><![CDATA[<p>전역(제대)후 예비군 몇년차 인지 궁금하신 분들을 위한 예비군 연차 계산기 입니다.<br />훈련 받으러 가기전 확인하세요</p>
 
 <div id="calculator">
 	<h4>연차 계산</h4>
@@ -225,7 +235,7 @@
 <p>따라서, 보통 7~8평 정도가 공용면적으로 책정되는 경우가 많습니다.</p>
 <p>예를 들어 전용면적이 18평으로 되어 있다면, 여기에 보통의 공용면적(아파트마다 다름) 7, 8평 정도를 더하면 대략 25평(공급면적)이 지인들과 우리집 몇 평이야~ 라고 대화나누는 면적이 됩니다.</p>
 
-]]></description></item><item><title>평형계산기</title><pubDate>Thu, 07 Nov 2019 15:00:00 +0900</pubDate><link>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%ED%8F%89%ED%98%95%EA%B2%8C%EC%82%B0%EA%B8%B0/</link><guid>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%ED%8F%89%ED%98%95%EA%B2%8C%EC%82%B0%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>계산기</category><description><![CDATA[<p>아파트 평수를 계산하거나, 전용면적을 계산할 때 유용한 평형 계산기 입니다.</p>
+]]></description></item><item><title>평형계산기</title><pubDate>Thu, 07 Nov 2019 15:00:00 +0900</pubDate><link>https://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%ED%8F%89%ED%98%95%EA%B2%8C%EC%82%B0%EA%B8%B0/</link><guid>https://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%ED%8F%89%ED%98%95%EA%B2%8C%EC%82%B0%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>계산기</category><description><![CDATA[<p>아파트 평수를 계산하거나, 전용면적을 계산할 때 유용한 평형 계산기 입니다.</p>
 
 <div id="calculator">
 	<h4>평수 계산</h4>
@@ -324,7 +334,7 @@
 <p>따라서, 보통 7~8평 정도가 공용면적으로 책정되는 경우가 많습니다.</p>
 <p>예를 들어 전용면적이 18평으로 되어 있다면, 여기에 보통의 공용면적(아파트마다 다름) 7, 8평 정도를 더하면 대략 25평(공급면적)이 지인들과 우리집 몇 평이야~ 라고 대화나누는 면적이 됩니다.</p>
 
-]]></description></item><item><title>글자수 세기</title><pubDate>Tue, 05 Nov 2019 09:00:00 +0900</pubDate><link>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EA%B8%80%EC%9E%90%EC%88%98%EC%84%B8%EA%B8%B0/</link><guid>http://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EA%B8%80%EC%9E%90%EC%88%98%EC%84%B8%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>계산기</category><description><![CDATA[<p>이력서, 자기소개서 등 작성시 유용한 글자 수 세기 프로그램 입니다.</p>
+]]></description></item><item><title>글자수 세기</title><pubDate>Tue, 05 Nov 2019 09:00:00 +0900</pubDate><link>https://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EA%B8%80%EC%9E%90%EC%88%98%EC%84%B8%EA%B8%B0/</link><guid>https://calculator.10x10.xyz/%EA%B3%84%EC%82%B0%EA%B8%B0/%EA%B8%80%EC%9E%90%EC%88%98%EC%84%B8%EA%B8%B0/</guid><author>yohan1002@gmail.com (yohan1002@gmail.com)</author><category>계산기</category><description><![CDATA[<p>이력서, 자기소개서 등 작성시 유용한 글자 수 세기 프로그램 입니다.</p>
 <p>아래의 입력창에 내용을 입력하거나 붙여넣기를 하세요. 입력하신 내용은 따로 저장되지 않습니다.</p>
 <p>자기소개서, 이력서 등 대부분의 경우 공백 및 줄바꿈을 포함한 글자수를 기준으로 합니다.</p>
 
