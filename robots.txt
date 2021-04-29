@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://calculator.10x10.xyz/sitemap.xml
+Sitemap: https://calculator.smileus.net/sitemap.xml
